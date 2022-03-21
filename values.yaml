@@ -571,7 +571,7 @@ server:
     #nodePort: 30000
 
     # Port on which Vault server is listening
-    port: 8200
+    port: 80
     # Target port to which the service should be mapped to
     targetPort: 8200
     # Extra annotations for the service definition. This can either be YAML or a
